@@ -132,8 +132,8 @@ LIME Explainability: https://github.com/marcotcr/lime
 PRs and suggestions are welcome! If you'd like to improve the models or frontend, feel free to fork and open a pull request.
 
 📬 Contact
-Your Name – [your.email@example.com]
-GitHub: https://github.com/yourusername
+Your Name – [rmuhammadhamza86.com]
+GitHub: https://github.com/github.com/M-Hamza-Rao
 
 ✅ License
 MIT License
